@@ -1,4 +1,4 @@
-![Alt Text](./bgGIT image.webp)
+![Image](./banner.webp)
 # 👋 Hello Developers , I'm Devansh Chhipa
 
 🚀 I'm at the beginning of my tech journey and continuously learning new skills to grow as a developer.
