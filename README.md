@@ -1,16 +1,20 @@
-## Hello DEVELOPERS👋
+![Alt Text](./bgGIT image.webp)
+# 👋 Hello Developers , I'm Devansh Chhipa
 
-<!--
-**DevanshChhipa9/DevanshChhipa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm at the beginning of my tech journey and continuously learning new skills to grow as a developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working with ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+- 💻 **C** and **C++** Programming  
+- 🐍 **Python** for scripting and problem-solving  
+- 🌐 **HTML** & **CSS** for frontend web development  
+- 🔧 **Git** & **GitHub** for version control and collaboration  
+
+---
+
+## 🛠️ Tools I Use
+
+- 🖥️ Visual Studio Code  
+- 🗃️ Git & GitHub  
