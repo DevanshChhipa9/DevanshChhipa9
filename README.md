@@ -17,4 +17,4 @@
 ## 🛠️ Tools I Use
 
 - 🖥️ Visual Studio Code  
-- 🗃️ Git_&_GitHub AWS lambda,S3#.
+- 🗃️ Git_&_GitHub AWS lambda,S3,SNS#.
