@@ -8,13 +8,6 @@
 ## 📚 Currently Learning
 
 - 💻 **C** and **C++** Programming  
-  👨🏻‍💻 cyber Security learner/junior Analyst
+  👨🏻‍💻 CyberSecurity learner/junior Analyst
 - 🌐 UX/UI Designer+ Web development  
 - 🔧 **Git** & **GitHub** for version control and collaboration  
-
----
-
-## 🛠️ Tools I Use
-
-- 🖥️ Visual Studio Code  
-- 🗃️ Git&GitHub AWS lambda,S3,SNS#.
