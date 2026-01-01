@@ -8,8 +8,8 @@
 ## 📚 Currently Learning
 
 - 💻 **C** and **C++** Programming  
-- 🐍 **Python** for scripting and problem-solving  
-- 🌐 **HTML** & **CSS** for frontend web development  
+   
+- 🌐 UX/UI designer+ web development  
 - 🔧 **Git** & **GitHub** for version control and collaboration  
 
 ---
