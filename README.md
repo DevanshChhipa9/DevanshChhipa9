@@ -8,8 +8,8 @@
 ## 📚 Currently Learning
 
 - 💻 **C** and **C++** Programming  
-   
-- 🌐 UX/UI designer+ web development  
+  👨🏻‍💻 cyber Security learner/junior Analyst
+- 🌐 UX/UI Designer+ Web development  
 - 🔧 **Git** & **GitHub** for version control and collaboration  
 
 ---
