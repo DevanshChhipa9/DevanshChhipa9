@@ -7,7 +7,7 @@
 
 ## 📚 Currently Learning
 
-- 💻 **C** and **C++** Programming . 
-  👨🏻‍💻 CyberSecurity learner/junior Analyst .
+- 💻 **C** and **C++** Programming 
+  👨🏻‍💻 CyberSecurity learner/junior Analyst
 - 🌐 UX/UI Designer+ Web development  
 - 🔧 **Git** & **GitHub** for version control and collaboration  
