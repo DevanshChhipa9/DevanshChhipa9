@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Learning
 
 - 💻 **C** and **C++** Programming
 - 👨🏻‍💻 CyberSecurity learner/junior Analyst
