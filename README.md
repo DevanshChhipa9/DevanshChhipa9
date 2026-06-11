@@ -8,7 +8,7 @@
 ## 📚 Learning
 
 - 💻 **C** and **C++** DSA learner
-- 👨🏻‍💻 CyberSecurity learner/junior Analyst
+- 👨🏻‍💻 CyberSecurity learner/junior Security Analyst
 - 🌐 UX/UI Designer+ Web development  
 - 🔧 **Git** & **GitHub** for version control and collaboration
 - ⚙️ **RHCSA**
